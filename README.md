@@ -1,1 +1,1 @@
-# proj2
+# My first project in Spring Boot
